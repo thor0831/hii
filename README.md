@@ -1,1 +1,1 @@
-# hii
+print("hello world")
